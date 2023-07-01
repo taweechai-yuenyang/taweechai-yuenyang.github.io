@@ -67,9 +67,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
     - title: หน้าแรก
-      url: "#hero1"
+      url: "/#hero1"
     - title: ผลงาน
-      url: "#section2"
+      url: "/#section2"
     # - title: Dropdown
     #   sublinks:
     #   - title: Dropdown item
@@ -79,13 +79,13 @@ params:
     #   - title: Dropdown item
     #     url: /
     - title: บทความ
-      url: "#section4"
+      url: "/#section4"
 
     - title: เกี่ยวกับฉัน
-      url: "#section1"
+      url: "/#section1"
 
     - title: ติดต่อสอบถาม
-      url: "#section5"
+      url: "/#section5"
   # - title: Sign up
   #   url: /
   #   button: true
