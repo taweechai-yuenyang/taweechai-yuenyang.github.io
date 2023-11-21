@@ -6,7 +6,7 @@
       <ul>
         {{- range $clientLogos }}
         <li>
-          <a {{ if .url }} href="{{ .url }}" {{ end }}>
+          <a {{ if .url }} href="{{ .url }}" {{ end }} target="_blank">
             <img class="partner-logo" src="{{ printf
             "images/logos/clients/%s.svg" .logo | relURL }}">
           </a>

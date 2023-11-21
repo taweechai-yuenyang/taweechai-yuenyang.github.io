@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: http://abe27.github.io
 languageCode: en-us
 title: Abe's blog.
 # sidebar: true # or false to display the sidebar
@@ -55,15 +55,17 @@ params:
     # urls are optional
     clientlogos:
       - logo: github
-        url: https://www.github.io/abe27
+        url: https://github.com/abe27
       - logo: linkedin
-        url: https://www.github.io/abe27
+        url: https://www.linkedin.com/in/taweechai-yuenyang-516362a6
       - logo: twitter
-        url: https://www.twitter.com
+        url: https://twitter.com/ItKrumii
       - logo: facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/korekaikonit
       - logo: reddit
-        url: https://www.reddit.com
+        url: https://www.reddit.com/user/kanomthai-yuen
+      # - logo: gutwork
+      #   url: https://www.youtube.com/channel/UCatB9w2k0AsCBqnNz5OMoGQ
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -196,8 +198,8 @@ params:
     title: ติดต่อเรา
     subtitle: สอบถามข้อมูลเพิ่มเติม
     buttonText: ส่งข้อความ
-    # action: https://formspree.io/f/<form_id>
-    # method: POST
+    action: https://formspree.io/f/xyyqavlo
+    method: POST
 
   footer:
     # # Logo (from /images/logos/___)

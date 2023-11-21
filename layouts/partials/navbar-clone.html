@@ -11,10 +11,10 @@ $navbarLogoHeight := .Site.Params.navbarlogo.width | default 28 }}
   <div class="container">
     <div class="navbar-brand">
       {{- if $navbarLogo}}
-      <a class="navbar-item" href="{{ $navbarLogo.link }}">
+      <!-- <a class="navbar-item" href="{{ $navbarLogo.link }}">
         <img src="{{ printf "images/%s" $navbarLogo.image | relURL }}" alt=""
         width="{{ $navbarLogoWidth }}" height="{{ $navbarLogoHeight }}">
-      </a>
+      </a> -->
       {{- end}} {{- if $sidebarVisible }}
       <a class="navbar-item is-hidden-desktop is-hidden-tablet">
         <div
