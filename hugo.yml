@@ -64,7 +64,7 @@ params:
         url: https://www.facebook.com/korekaikonit
       - logo: reddit
         url: https://www.reddit.com/user/kanomthai-yuen
-      # - logo: gutwork
+      # - logo: youtube
       #   url: https://www.youtube.com/channel/UCatB9w2k0AsCBqnNz5OMoGQ
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
@@ -203,9 +203,9 @@ params:
 
   footer:
     # # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    # logo: fresh-white-alt.svg
     # # Social Media Title
-    # socialmediatitle: Follow Us
+    socialmediatitle: Follow Us
     # # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
       - link: https://github.com/lucperkins/github-fresh
@@ -219,36 +219,36 @@ params:
         icon: twitter
       - link: https://bitbucket.org/#
         icon: bitbucket
-    bulmalogo: true
-    quicklinks:
-      column1:
-        title: "Product"
-        links:
-          - text: Discover features
-            link: /
-          - text: Why choose our product?
-            link: /
-          - text: Compare features
-            link: /
-          - text: Our roadmap
-            link: /
-          - text: AGB
-            link: /agb
-      column2:
-        title: "Docs"
-        links:
-          - text: Get started
-            link: /
-          - text: User guides
-            link: /
-          - text: Admin guide
-            link: /
-          - text: Developers
-            link: /
-      column3:
-        title: "Blog"
-        links:
-          - text: Latest news
-            link: /blog/first
-          - text: Tech articles
-            link: /blog/second
+    # bulmalogo: true
+    # quicklinks:
+      # column1:
+      #   title: "Product"
+      #   links:
+      #     - text: Discover features
+      #       link: /
+      #     - text: Why choose our product?
+      #       link: /
+      #     - text: Compare features
+      #       link: /
+      #     - text: Our roadmap
+      #       link: /
+      #     - text: AGB
+      #       link: /agb
+      # column2:
+      #   title: "Docs"
+      #   links:
+      #     - text: Get started
+      #       link: /
+      #     - text: User guides
+      #       link: /
+      #     - text: Admin guide
+      #       link: /
+      #     - text: Developers
+      #       link: /
+      # column3:
+      #   title: "Blog"
+      #   links:
+      #     - text: Latest news
+      #       link: /blog/first
+      #     - text: Tech articles
+      #       link: /blog/second
