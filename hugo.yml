@@ -10,7 +10,7 @@ module:
   # workspace: hugo.work
   imports:
     # - path: hugo-fresh
-    - path: github.com/abe27/portfolio
+    - path: github.com/taweechai-yuenyang/portfolio
 
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
 # Disables warnings
@@ -55,7 +55,7 @@ params:
     # urls are optional
     clientlogos:
       - logo: github
-        url: https://github.com/abe27
+        url: https://github.com/taweechai-yuenyang
       - logo: linkedin
         url: https://www.linkedin.com/in/taweechai-yuenyang-516362a6
       - logo: twitter
